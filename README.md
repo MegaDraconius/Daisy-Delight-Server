@@ -18,7 +18,7 @@ Para poder visualizar el video les dejamos el enlace a su canal de youtube y git
    ```
 
 3. Change the data on **db.json**.
-   Ejemplo:
+   Example:
 
    ```js
    {
@@ -56,3 +56,8 @@ Para poder visualizar el video les dejamos el enlace a su canal de youtube y git
 6. Build and deploy from a Git repository![alt text](image-1.png)
 7. Conect with your favorite Version Control web ![alt text](image-2.png)
 8. Select the repository with the json server ![alt text](image-3.png)
+9. Connect ![alt text](image-4.png)
+10. Create the Web service ![alt text](image-5.png)
+11. Wait for the deploy... ![alt text](image-6.png)
+12. Finally your deploy is live ![alt text](image-7.png)
+13. Your Db.json on Render![alt text](image-8.png)
